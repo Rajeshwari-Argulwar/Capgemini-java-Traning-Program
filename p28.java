@@ -1,4 +1,4 @@
-public public class SquarePattern {
+public class p28 {
     public static void main(String[] args) {
         int size = 7; // Outer layer size
         int[][] square = new int[size][size];
@@ -22,7 +22,4 @@ public public class SquarePattern {
             System.out.println();
         }
     }
-}
- p28 {
-    
 }

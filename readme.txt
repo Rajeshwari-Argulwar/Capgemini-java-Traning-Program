@@ -26,6 +26,8 @@ p25 : Reverse a number by using scanner class
 p26 : print this pattern 
 p27 : print this pattern 
 
+
+remaining questions 
 9. Write a program to input any character and check whether it is alphabet, digit or special character
 10. Write a program to check whether a character is uppercase or lowercase alphabet
 11. Write a program to input week number and print week day
