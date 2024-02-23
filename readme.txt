@@ -27,16 +27,16 @@ p24 : Write a program check a given number is palindrome or not
 p25 : Reverse a number by using scanner class
 p26 : print this pattern 
 p27 : print this pattern 
-p29 : 
-p30 :
-p31 : Write a program to print Maximum and Minimum Values from an array
-p32 :
-p33 :
-p34 :
-p35 :
+p29 : Write a program to print sum of array 
+p30 : Write a program to print even and odd numbers from an array and make two diffrent array to store them
+p31 : Write a program to print Maximum and Minimum Values from an array 
+p32 : Write a program to print a matrix
+p33 : Write a program to print sum of matrix
+p34 : Write a program to print even and odd numbers from matrix
+p35 : Write a program to print sum of 2 matrixs
 p36 :
-p37 :
-p38 :
+p37 : Write a program to print matrics upside down 
+p38 : Write a program to print matrics Left to right 
 p39 :
 p40 :
 p41 :
