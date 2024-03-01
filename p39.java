@@ -13,12 +13,14 @@ public class p39
         {
             for(int j=0;j<=3;j++)
             {
-                if(i>=1){
+                if(i>=1)
+                {
                     System.out.print(arr[i][j]+" ");
+                }
+                System.out.println();
             }
-            System.out.println();
-        }
     
+        }
     }
 }
     

@@ -38,9 +38,9 @@ p36 :
 p37 : Write a program to print matrics upside down 
 p38 : Write a program to print matrics Left to right 
 p39 :
-p40 :
-p41 :
-p42 :
+p40 : Write a code for Method to calculate the product of three numbers
+p41 : write  a program which will calculate the lenghth of a word and if it is odd then prints one middle character and if itis even then print two middle chracters  
+p42 : tryig functions of math library in java 
 p43 :
 p44 :
 p45 :
